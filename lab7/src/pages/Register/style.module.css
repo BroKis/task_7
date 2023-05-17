@@ -1,0 +1,9 @@
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+.responseBlock, .error {
+    display: block;
+    height: 1rem;
+}

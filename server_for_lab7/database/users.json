@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "username": "admin@admin",
+    "passwordHash": "$2b$10$THXL/.X.n4Xsb7HPaC/5m.bw/BSZVDQ8TTNrVnAZsGIiRCbDGIi0u",
+    "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbkBhZG1pbiIsImlhdCI6MTY4NDMyNzAxOCwiZXhwIjo0Mjc2MzI3MDE4fQ.jQ5gQSfyBUK2zEt1wxr-xUmF5TM6LEZ5NpkPVHN6HCQ",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "curse@curse",
+    "passwordHash": "$2b$10$MtJNZvpZuifLD0dXJWhq6OnWFPU03yj7ii6oDxLrumuB8nkQkC/GC",
+    "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJjdXJzZUBjdXJzZSIsImlhdCI6MTY4NDMzNjkyNiwiZXhwIjo0Mjc2MzM2OTI2fQ.ebOBKk05p1Ry3LMVtQB8Cfge4S-Cnc0nftZ_GK97jBg"
+  }
+]

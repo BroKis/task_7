@@ -1,0 +1,9 @@
+.wrapper {
+    display: flex;
+    height: calc(100vh - 180px);
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 4rem;
+    text-transform: uppercase;
+}

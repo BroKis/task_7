@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background: gold;
+    box-shadow: 0 0 5px 1px #000;
+    margin-top: 1rem;
+}
